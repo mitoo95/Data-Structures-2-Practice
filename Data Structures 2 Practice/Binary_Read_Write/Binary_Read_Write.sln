@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary_Read_Write", "Binary_Read_Write\Binary_Read_Write.vcxproj", "{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}.Debug|x64.ActiveCfg = Debug|x64
+		{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}.Debug|x64.Build.0 = Debug|x64
+		{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}.Debug|x86.Build.0 = Debug|Win32
+		{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}.Release|x64.ActiveCfg = Release|x64
+		{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}.Release|x64.Build.0 = Release|x64
+		{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}.Release|x86.ActiveCfg = Release|Win32
+		{B0B0810C-38E5-43DF-BECD-1BF094DCFC06}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20FB5BD3-5428-438D-809B-65212093319B}
+	EndGlobalSection
+EndGlobal
